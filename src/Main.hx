@@ -6,8 +6,8 @@ class Main {
     public static function main() {
         var app = new HaxeUIApp();
         app.ready(function() {
-            app.addComponent(new MainView());
-
+    	    var view: MainView = new MainView();
+            app.addComponent(view);
             app.start();
         });
     }

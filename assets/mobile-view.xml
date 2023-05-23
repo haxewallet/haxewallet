@@ -3,6 +3,9 @@
   <stack id="stack">
     <vbox id="currencies">
       <label text="Mobile View" />
+      <hbox><label text="Monero" /><label text="0"/><label text="XMR"/></hbox>
+      <hbox><label text="Bitcoin (Electrum)" /><label text="0"/><label text="BTC"/></hbox>
+      <hbox><label text="Litecoin (Electrum)" /><label text="0"/><label text="LTC"/></hbox>
     </vbox>
   </stack>
  </hbox>

@@ -2,9 +2,9 @@
  <hbox style="padding: 5px; width: 100%; height: 100%">
   <vbox id="currencies">
       <label text="Desktop View" />
-      <hbox><label text="Monero" /><label text="0"/><label text="XMR"/></hbox>
-      <hbox><label text="Bitcoin (Electrum)" /><label text="0"/><label text="BTC"/></hbox>
-      <hbox><label text="Litecoin (Electrum)" /><label text="0"/><label text="LTC"/></hbox>
+      <hbox><label text="Monero" /><spacer width="100%" /><label text="0"/><label text="XMR"/></hbox>
+      <hbox><label text="Bitcoin (Electrum)" /><spacer width="100%" /><label text="0"/><label text="BTC"/></hbox>
+      <hbox><label text="Litecoin (Electrum)" /><spacer width="100%" /><label text="0"/><label text="LTC"/></hbox>
   </vbox>
  </hbox>
 </vbox>
